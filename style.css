@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+a.link {
+  color: white;
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+a.link:hover {
+  color: #7c40ff;
+}
+
+.floating-ui {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
